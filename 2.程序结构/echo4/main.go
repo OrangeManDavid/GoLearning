@@ -39,4 +39,4 @@ func main() {
 // Usage of ./echo4:
 //   -n    omit trailing newline
 //   -s string
-//         separator (default " ")
+//         separato
