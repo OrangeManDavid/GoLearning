@@ -1,10 +1,10 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
-// License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+// // Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
+// // License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-// See page 29.
+// // See page 29.
 //!+
 
-// Ftoc prints two Fahrenheit-to-Celsius conversions.
+// // Ftoc prints two Fahrenheit-to-Celsius conversions.
 package main
 
 import "fmt"
